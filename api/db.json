@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "Lululuvely",
+      "description": "Only cuties can click on this stream",
+      "id": 1
+    },
+    {
+      "title": "ItzTimmy",
+      "description": "Pub God",
+      "id": 2
+    },
+    {
+      "title": "TSM_ImperialHal",
+      "description": "Am I joining Cloud9?",
+      "id": 3
+    },
+    {
+      "title": "Aceu",
+      "description": "God of solo queue",
+      "userId": "105724836353438810749",
+      "id": 5
+    },
+    {
+      "title": "Tectone",
+      "description": "Rosaria Showcase",
+      "userId": "105724836353438810749",
+      "id": 6
+    }
+  ]
+}
